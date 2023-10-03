@@ -856,5 +856,11 @@ font-size: 25px;
     color: #fff;
     font-weight: bold;
 }
+.btn-box{
+    margin-top: 40px;
+}
+.social-icons{
+    margin-top: 40px;
+}
 
 }

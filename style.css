@@ -828,7 +828,9 @@ font-size: 1rem;
 .img-about img{
     display: none;
 }
-
+.img-box{
+    margin-top: 100px;
+}
 .home-content p,.email-info span,.about-content,.service-box p,.port-content p,.info p,.text small,
 .navlist li a
 {
